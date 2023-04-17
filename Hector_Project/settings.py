@@ -1,7 +1,7 @@
 from shutil import which
 
 SELENIUM_DRIVER_NAME = 'chrome'
-SELENIUM_DRIVER_EXECUTABLE_PATH = 'chromedriver.exe'
+SELENIUM_DRIVER_EXECUTABLE_PATH = '/usr/local/bin/chromedriver'
 SELENIUM_DRIVER_ARGUMENTS=['--headless']
 
 # LOG_FILE = "scrapy.log"
